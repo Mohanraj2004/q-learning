@@ -54,9 +54,9 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 
 ## Q LEARNING FUNCTION :
-Developed By : **Pranave B**
+Developed By : **Mohan raj S**
 </br>
-Register No. : **212221240040**
+Register No. : **212221230065**
 ```py
 def q_learning(env, gamma=1.0, init_alpha=0.5,
                min_alpha=0.01, alpha_decay_ratio=0.5, init_epsilon=1.0,
